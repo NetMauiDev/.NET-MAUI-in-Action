@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNetEight", "TestNetEight\TestNetEight.csproj", "{FCF939A5-1CE3-4781-BD5D-C0DDDB625286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF939A5-1CE3-4781-BD5D-C0DDDB625286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF939A5-1CE3-4781-BD5D-C0DDDB625286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF939A5-1CE3-4781-BD5D-C0DDDB625286}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FCF939A5-1CE3-4781-BD5D-C0DDDB625286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF939A5-1CE3-4781-BD5D-C0DDDB625286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF939A5-1CE3-4781-BD5D-C0DDDB625286}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF3486E-0D94-4872-B9DD-247826CC1F83}
+	EndGlobalSection
+EndGlobal

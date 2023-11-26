@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34302.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMe", "FindMe\FindMe.csproj", "{6A0D8BAE-8A7C-4C90-AF8D-B6F4E674AB4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0D8BAE-8A7C-4C90-AF8D-B6F4E674AB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0D8BAE-8A7C-4C90-AF8D-B6F4E674AB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0D8BAE-8A7C-4C90-AF8D-B6F4E674AB4B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6A0D8BAE-8A7C-4C90-AF8D-B6F4E674AB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0D8BAE-8A7C-4C90-AF8D-B6F4E674AB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0D8BAE-8A7C-4C90-AF8D-B6F4E674AB4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D204C7A-3C77-4FBC-9627-E3914DF41ABB}
+	EndGlobalSection
+EndGlobal
